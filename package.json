@@ -1,0 +1,12 @@
+{
+  "name": "pruebalupo",
+  "version": "1.0.0",
+  "description": "servidor con nodejs vanilla con 2 endpoints",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mairelis",
+  "license": "ISC",
+  "keywords": []
+}
